@@ -1,0 +1,16 @@
+{
+  "name": "@codeauthors/cleanui",
+  "version": "0.0.5",
+  "description": "A clean SASS responsive UI framework built around HTML5 elements and intuitive class names.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["framework", "clean", "ui", "sass", "intuitive"],
+  "author": {
+    "name": "CodeAuthors",
+    "email": "hello@codeauthors.com",
+    "url": "https://codeauthors.com"
+  },
+  "license": "SEE LICENSE IN LICENSE"
+}
