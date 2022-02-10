@@ -1,6 +1,6 @@
 {
   "name": "@codeauthors/cleanui",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "A clean SASS responsive UI framework built around HTML5 elements and intuitive class names.",
   "main": "index.js",
   "scripts": {
